@@ -7,7 +7,11 @@ uploading a photo. The model is trained using a custom dataset and is built with
 
 ## 🧠 Features
 - 🔍 Detects if a mushroom is poisonous or edible using an image.
+<<<<<<< HEAD
 - 🧠 Trained using CNN (ResNet-based architecture).
+=======
+- 🧠 Trained using CNN (MobileNet V2-based architecture).
+>>>>>>> 98597c8dc1e67287f48bd31395f3c4ca5608f249
 - 📸 Accepts user image uploads for classification.
 - 🧾 Displays detailed info for edible mushrooms.
 - ☠️ Shows a warning sign for poisonous mushrooms.
